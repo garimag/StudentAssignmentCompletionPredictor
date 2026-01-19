@@ -1,0 +1,5 @@
+{
+  "name": "Student Completion Predictor",
+  "description": "My website's purpose is to figure out how many students will complete a certain assignment based on how they complete it and certain inputs that will be put into a formula! The main targets are teachers who wonder how their classes might complete assignments.",
+  "requestFramePermissions": []
+}
